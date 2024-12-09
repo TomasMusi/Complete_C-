@@ -1,4 +1,3 @@
-Simply Notes From C++
 # Complete C++
 
 This is simple tutorial to C++, simply notes from lessons taken from Bro Code
